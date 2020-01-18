@@ -2,17 +2,17 @@
 name = "Skriptorium"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
-primary = "#5F021F"
+primary = "#660022"
 
 # Menu
-menu_primary = "#5F021F"
+menu_primary = "#660022"
 menu_text = "#fff"
-menu_text_active = "#1b5e20"
+menu_text_active = "#bad1c9"
 menu_title = "#fff"
 
 # Home sections
-home_section_odd = "rgb(75, 0, 11)"
-home_section_even = "rgb(95, 2, 31)"
+home_section_even = "rgb(235, 229, 206)"
+home_section_odd = "rgb(206, 209, 192)"
