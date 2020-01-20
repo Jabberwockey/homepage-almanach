@@ -2,7 +2,7 @@
 tags: ["Almanach", "Aldradach", "Drachenfest", "Reiseführer"]
 categories: ["Projekte", "Stadtführer"]
 comments: true
-title: "Crowdfunding started"
+title: "Startschuss Crowdfunding 2020"
 date: "2020-01-20T11:31:00+01:00"
 slug: ""
 draft: ""
