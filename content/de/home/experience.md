@@ -23,7 +23,7 @@ date_format = "2006"
   company_url = ""
   location = "Aldradach"
   date_start = "2015-08-01"
-  date_end = ""
+  date_end = "2015-08-01"
   description = """
   Ludovic, der Spieler, einer der Hüter der AWZA, startet ein kleines
   Projekt um Informationen über die Stadt in einem handlichen Büchlein
@@ -39,7 +39,7 @@ date_format = "2006"
   company_url = ""
   location = "Aldradach"
   date_start = "2017-08-01"
-  date_end = ""
+  date_end = "2017-08-01"
   description = """
   Ludovic verlässt die Stadt Aldradach, die sieben Jahre seine Heimat war.
   Auf dem Weg trifft er Bartholomäus Federkiel, der ein Theater gründen möchte.
@@ -53,7 +53,7 @@ date_format = "2006"
   company_url = ""
   location = "Aldradach"
   date_start = "2018-08-01"
-  date_end = ""
+  date_end = "2018-08-01"
   description = """
   Das erste Buch unter der Riege von Bartholomäus Federkiel und das erste Buch,
   das durch eine Crowdfunding-Kampagne finanziert wurde. Dieses Buch hat bereits
@@ -66,7 +66,7 @@ date_format = "2006"
   company_url = ""
   location = "Aldradach"
   date_start = "2018-12-01"
-  date_end = ""
+  date_end = "2018-12-01"
   description = """
   Blau gewinnt die Herrschaft über die Drachenlande des Jahres 13 n.A. - Zeit
   um den größten Kritikpunkt vom Aldradach-Almanach 12 n.A. anzugehen, die
@@ -80,7 +80,7 @@ date_format = "2006"
   company_url = "https://www.aldradacher-skriptorium.de"
   location = "Aldradach"
   date_start = "2019-07-01"
-  date_end = ""
+  date_end = "2019-07-01"
   description = """
   Bartholomäus Federkiel muss einsehen, dass die Arbeit ihn immer weiter weg
   von seinem ursprünglichen Traum, ein Theater zu gründen, wegbringt. Dafür
@@ -98,7 +98,7 @@ date_format = "2006"
   company_url = "https://www.aldradacher-skriptorium.de"
   location = "Aldradach"
   date_start = "2019-08-01"
-  date_end = ""
+  date_end = "2019-08-01"
   description = """
   Begeistert wird das neue Umschlagbild von Tora Melkírsdottír gelobt und auch,
   dass sich nun endlich auch alle Händler und Essensstände der Stadt im Almanach
@@ -112,7 +112,7 @@ date_format = "2006"
   company_url = "https://www.aldradacher-skriptorium.de"
   location = "Aldradach"
   date_start = "2019-08-02"
-  date_end = ""
+  date_end = "2019-08-02"
   description = """
   Emsig sammeln die Mitarbeiter des Skriptoriums Informationen auf dem Fest der Drachen.
   Ihr Ziel? Sie wollen Bartholomäus dabei helfen, dann doch auch eine Erweiterung zu
