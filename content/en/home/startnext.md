@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Crowd-funding Aldradach Almanac and Camp Companion 2020"
+title = "Crowdfunding Aldradach Almanac and Camp Companion 2020"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "title_red.png"
@@ -53,6 +53,6 @@ hero_media = "title_red.png"
 
 **Support the Aldradach Almanac and the Camp Companion and gain exclusive rewards!**
 
-The Aldradach Almanac is back and brought along its new brother - the Camp Companion, a book with stories and lists of businesses of the camps.
+The Aldradach Almanac is back and brought along a new brother - the Camp Companion, a book with stories and lists of businesses of the camps.
 
-Take part in the campain to gain exclusive and exciting rewards and to support THE travel guides of the town!
+Take part in the campain to gain exclusive and exciting rewards and to support THE travel guides of the Festival of the Dragons!

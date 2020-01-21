@@ -55,4 +55,4 @@ hero_media = "title_red.png"
 
 Der Aldradach-Almanach ist zurück und hat einen Bruder mitgebracht - den Lager-Lümmel, ein Buch mit Geschichten und Gewerklisten der Lager.
 
-Nehmt an der Kampagne teil um exklusive und spannende Prämien zu bekommen und DIE Reiseführer der Stadt zu unterstützen!
+Nehmt an der Kampagne teil um exklusive und spannende Prämien zu bekommen und DIE Reiseführer des Fests der Drachen zu unterstützen!

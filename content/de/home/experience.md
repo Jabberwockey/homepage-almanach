@@ -31,7 +31,7 @@ date_format = "2006"
   war das Buch damals. Auch, wenn es damals noch nicht nach sehr viel
   aussah - es fehlten Bilder und die Schrift wurde als nicht sehr leserlich
   bezeichnet - so entdeckten schon damals viele das Potential, was darin
-  steckt.
+  steckt. Einer der ersten Leser war kein geringerer als der Goldene Avatar.
   """
 [[experience]]
   title = "Die Übergabe"
