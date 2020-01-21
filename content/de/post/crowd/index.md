@@ -11,8 +11,8 @@ diagram: true
 
 ---
 
-Es geht wieder los! Nur noch wenige Tage und die neue Crowdfunding-Kampagne
-für den Aldradach-Almanach started. Freut euch wieder auf lukrative Prämien,
+Es geht wieder los! Die Crowdfunding-Kampagne
+für den Aldradach-Almanach ist gestartet. Freut euch wieder auf lukrative Prämien,
 neue Geschichten, viele kleine und große Änderungen und natürlich auch
 den neuen Lager-Lümmel!
 

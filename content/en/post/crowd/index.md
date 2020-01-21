@@ -11,8 +11,8 @@ diagram: true
 
 ---
 
-Here we go again! Only a few days remain before the crowdfunding campaign
-of the Aldradach Almanac starts once again. Be prepared for lucrative rewards,
+Here we go again! The crowdfunding campaign
+of the Aldradach Almanac started once again. Be prepared for lucrative rewards,
 new stories, many little and big changes and of course the new Camp Companion!
 
 You can find the campaign here:
